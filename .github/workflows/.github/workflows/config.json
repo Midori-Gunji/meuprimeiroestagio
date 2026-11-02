@@ -1,0 +1,8 @@
+{
+  "buscas": [
+    { "termo": "marketing", "cidade": "", "modelo": "" },
+    { "termo": "comercial", "cidade": "", "modelo": "" },
+    { "termo": "vendas", "cidade": "Campinas", "modelo": "" },
+    { "termo": "marketing", "cidade": "São Paulo", "modelo": "hibrido" }
+  ]
+}
